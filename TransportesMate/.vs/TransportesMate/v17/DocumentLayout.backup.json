@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\jsolo\\source\\repos\\transportesmate\\transportesmate\\wwwroot\\css\\site-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\wwwroot\\css\\site-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\jsolo\\source\\repos\\transportesmate\\transportesmate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\jsolo\\source\\repos\\transportesmate\\transportesmate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T02:59:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site-custom.css",
+              "DocumentMoniker": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\wwwroot\\css\\site-custom.css",
+              "RelativeDocumentMoniker": "TransportesMate\\wwwroot\\css\\site-custom.css",
+              "ToolTip": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\wwwroot\\css\\site-custom.css",
+              "RelativeToolTip": "TransportesMate\\wwwroot\\css\\site-custom.css",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAYwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-11T02:55:36.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T02:51:11.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
