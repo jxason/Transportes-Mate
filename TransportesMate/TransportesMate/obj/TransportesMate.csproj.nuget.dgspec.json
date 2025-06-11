@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\TransportesMate.csproj": {}
+    "C:\\Users\\jsolo\\Programacion\\GitHubProjects\\Transportes-Mate\\TransportesMate\\TransportesMate\\TransportesMate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\TransportesMate.csproj": {
+    "C:\\Users\\jsolo\\Programacion\\GitHubProjects\\Transportes-Mate\\TransportesMate\\TransportesMate\\TransportesMate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\TransportesMate.csproj",
+        "projectUniqueName": "C:\\Users\\jsolo\\Programacion\\GitHubProjects\\Transportes-Mate\\TransportesMate\\TransportesMate\\TransportesMate.csproj",
         "projectName": "TransportesMate",
-        "projectPath": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\TransportesMate.csproj",
+        "projectPath": "C:\\Users\\jsolo\\Programacion\\GitHubProjects\\Transportes-Mate\\TransportesMate\\TransportesMate\\TransportesMate.csproj",
         "packagesPath": "C:\\Users\\jsolo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jsolo\\source\\repos\\TransportesMate\\TransportesMate\\obj\\",
+        "outputPath": "C:\\Users\\jsolo\\Programacion\\GitHubProjects\\Transportes-Mate\\TransportesMate\\TransportesMate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
