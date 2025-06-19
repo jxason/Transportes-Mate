@@ -15,7 +15,7 @@ Este proyecto consiste en una tienda virtual inspirada en plataformas como **EPA
 ## ⚙️ Especificaciones Técnicas Básicas
 
 - **Framework principal:** ASP.NET Core 8.0  
-- **Arquitectura:** Razor Pages con patrones MVC  
+- **Arquitectura:** Razor Pages con el patrón MVC  
 - **Base de datos:** SQL Server + Entity Framework Core  
 - **Frontend:** Bootstrap 5, HTML5 y CSS3  
 - **Lenguaje principal:** C#  
@@ -25,10 +25,13 @@ Este proyecto consiste en una tienda virtual inspirada en plataformas como **EPA
 - **Control de versiones:** Git + GitHub  
 - **Sistema de roles:** Cliente, Administrador, Transportista  
 - **Funcionalidades clave:**  
-  - Gestión de productos y categorías  
+  - Gestión de productos y categorías (CRUD)  
   - Carrito de compras con cálculo de costos de envío según peso/volumen  
   - Configuración de métodos de entrega para productos pesados  
-  - Panel de control para seguimiento logístico  
+  - Panel de control para seguimiento logístico
+  - Panel de control para gestionar usuarios
+  - Panel de autenticación para validar a los usuarios registrados según su rol
+  - Dashboard para visualizar todos los widgets incluidos en la aplicación (Rol permitido para visualizar el dashboard: Administrador)   
 
 ---
 
