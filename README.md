@@ -19,8 +19,8 @@ Este proyecto consiste en una tienda virtual inspirada en plataformas como **EPA
 - **Base de datos:** SQL Server + Entity Framework Core  
 - **Frontend:** Bootstrap 5, HTML5 y CSS3  
 - **Lenguaje principal:** C#  
-- **Patrones aplicados:** Repositorio, Inyección de Dependencias, Separación de responsabilidades  
-- **Principios SOLID:** Aplicación de SRP, DIP e ISP en capas del proyecto  
+- **Patrones aplicados:** MVC (Modelo-Vista-Controlador) 
+- **Principios SOLID:** Aplicación de Single Responsibility Principle en las capas del proyecto  
 - **APIs Externas:** Planificación de rutas (Google Maps API u otra API open source)  
 - **Control de versiones:** Git + GitHub  
 - **Sistema de roles:** Cliente, Administrador, Transportista  
