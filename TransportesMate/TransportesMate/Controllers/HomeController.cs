@@ -13,10 +13,21 @@ namespace TransportesMate.Controllers
             _logger = logger;
         }
 
+        public IActionResult Login()
+        {
+            return View();
+        }
+
         public IActionResult Index()
         {
             return View();
         }
+
+        public IActionResult ConfigurationPanel()
+        {
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {
