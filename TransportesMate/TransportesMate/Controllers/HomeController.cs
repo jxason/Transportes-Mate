@@ -17,7 +17,10 @@ namespace TransportesMate.Controllers
         {
             return View();
         }
-
+        public IActionResult UserProfile()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();

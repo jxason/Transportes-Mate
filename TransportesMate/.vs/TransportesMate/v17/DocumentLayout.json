@@ -1,7 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jsolo\\Programacion\\GitHubProjects\\Transportes-Mate\\TransportesMate\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\home\\configurationpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\home\\configurationpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\wwwroot\\css\\login-view.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\wwwroot\\css\\login-view.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 8\\advanced programming web\\proyecto_final_widget_creator\\transportesmate\\transportesmate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6173DEA6-7944-47E5-A38E-E391F4F6A340}|TransportesMate\\TransportesMate.csproj|solutionrelative:transportesmate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +70,202 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TransportesMate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TransportesMate\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:27:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\ConfigurationPanel.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Home\\ConfigurationPanel.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\ConfigurationPanel.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Home\\ConfigurationPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T19:24:44.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:40:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T19:24:39.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T19:24:38.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:40:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Program.cs",
+              "RelativeDocumentMoniker": "TransportesMate\\Program.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Program.cs",
+              "RelativeToolTip": "TransportesMate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:21:50.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:21:47.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:21:48.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Home\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\UserProfile.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Home\\UserProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T17:01:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login-view.css",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\wwwroot\\css\\login-view.css",
+              "RelativeDocumentMoniker": "TransportesMate\\wwwroot\\css\\login-view.css",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\wwwroot\\css\\login-view.css",
+              "RelativeToolTip": "TransportesMate\\wwwroot\\css\\login-view.css",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAIwA0BAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-22T19:53:13.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T19:24:45.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TransportesMate\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TransportesMate\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:24:56.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\appsettings.json",
+              "RelativeDocumentMoniker": "TransportesMate\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\appsettings.json",
+              "RelativeToolTip": "TransportesMate\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T18:21:47.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TransportesMate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 8\\Advanced Programming web\\Proyecto_Final_Widget_creator\\TransportesMate\\TransportesMate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TransportesMate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:15:23.284Z",
+              "EditorCaption": ""
             }
           ]
         }
